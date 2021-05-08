@@ -1,6 +1,6 @@
 # Learning-Cryptocurrency
 
-This is how I learned to build Crypto
+This is how I learned to build Cryptos
 
 I will document my progress in learning how to build cryptocurrency with Solidity
 
