@@ -5,8 +5,8 @@ This is how I learned to build Cryptos
 I will document my progress in learning how to build cryptocurrency with Solidity
 ## Tools
 
-- MetaMask
-- Remix
+- MetaMask (Wallet)
+- Remix (Text Editor)
 ## Course 1
 
 ### Udemy
