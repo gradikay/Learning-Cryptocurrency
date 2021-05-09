@@ -29,7 +29,7 @@ contract MyContract {
         // Reduce balance argument: Decrease balance by the amount sent / refunded
         balanceReceived[msg.sender] -= _amount;
         
-        // Transfer field: Transfer amount 
+        // Transfer field: Transfer amount
         _to.transfer(_amount);
     }
 }
