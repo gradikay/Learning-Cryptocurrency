@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 // Smart Contract
 contract MyContract{
     
-    // Creat a string variable "myString"
+    // Creat a string variable "myString" 
     string public myString = "I Love Congo";
     
     // Function Calling myString variable
