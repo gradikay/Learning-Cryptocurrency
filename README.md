@@ -1,4 +1,4 @@
-# Learning-Cryptocurrency
+# Learning-Cryptocurrency - pragma ^0.8.4
 
 This is how I learned to build Cryptos.
 
