@@ -30,7 +30,7 @@ contract Transaction{
     // the sender
     // CAUTION: anyone can withdraw funds 
     // given they have original / sender's address
-    // HERE "to" is the sender
+    // HERE "to" is the sender 
     function withdrawMoney() public {
         
         // New variable "to" is the sender
